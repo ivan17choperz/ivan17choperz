@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan Perez</h1>
 <h3 align="center">Web Developer Full-Stack</h3>
 
-- 🔭 I´M Curretly working a project app´s dating [Gatgers](https://github.com/ivan17choperz/gatgers-frontend-app)
+- 🔭 I´M Curretly working a freelance in Upwork.com, Freelance.com and Workana.com
 
 - 💬 Ask me about **Angular,Vuejs,JavaScript and PHP**
 
